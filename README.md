@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Yobi.<br>⚡AI Engineer<br>👯 Full Stack Dev.<br>🤝 Currently working on AI voice calls.<br>🌱 Currently doing a PhD in deep learning: Privacy preserving deep learning models
+🔭 I’m currently working at UST.<br>⚡Lead Data Scientist<br>👯 Full Stack Dev.<br>🤝 Currently working on Agentic AI.<br>🌱 Currently doing a PhD in deep learning: Privacy preserving deep learning models
 
 
 ## 🌐 Socials:
